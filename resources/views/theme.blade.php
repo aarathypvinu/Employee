@@ -22,6 +22,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/search">Search</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About us</a>
+        </li>
         
       </ul>
     </div>
